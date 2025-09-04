@@ -1,12 +1,36 @@
-# React + Vite
+# Advanced Filtering in React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates advanced filtering techniques in React.js. It covers how to efficiently filter complex datasets, manage filter state, and optimize performance for large lists.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Dynamic multi-criteria filtering
+- Search and sort functionality
+- Performance optimizations for large datasets
+- Clean and modular component structure
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository.
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the development server:
+    ```bash
+    npm start
+    ```
+
+## Usage
+
+Explore the UI to apply various filters and see real-time updates to the displayed data.
+
+## Technologies
+
+- React.js
+- JavaScript (ES6+)
+- CSS Modules
+
+## License
+
+MIT
